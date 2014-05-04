@@ -1,4 +1,4 @@
-package com.domac.concurrent.lock.CountDownLatch;
+package com.domac.concurrent.lock.countdown;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
